@@ -541,7 +541,7 @@ form input[type="button"] {
   }
 
   #image-container img {
-      width: 45%%;
+      width: 45%;
       height: 30vh;
   }
 
@@ -578,6 +578,6 @@ form input[type="button"] {
     flex-direction:column;
     align-items:center;
     justify-content:space-between;
-    height:20vh
+    height:15vh
   }
 }
