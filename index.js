@@ -1,4 +1,4 @@
-// import styles from './style.css';
+
 
 
   document.addEventListener('DOMContentLoaded', () => {
@@ -9,26 +9,26 @@
                 title: 'Events',
                 images: [
                     'images/image1.jpeg', 'images/image2.jpeg', 'images/image3.png', 'images/image4.jpg', 'images/image5.jpeg',
-                    'images/image5.jpeg', 'images/image5.jpeg', 'image8.jpg', 'image9.jpg', 'image10.jpg',
-                    'image11.jpg', 'image12.jpg', 'image13.jpg', 'image14.jpg', 'image15.jpg'
+                    'images/image6.jpeg', 'images/image7.jpeg', 'images/image8.jpeg', 'images/image9.jpeg', 'images/image10.jpeg',
+                    'images/image11.jpeg', 'images/image12.jpeg', 'images/image13.webp', 'images/image14.jpeg', 'images/image15.webp'
                 ]
             },
             {
                 id: 2,
                 title: 'Office Life',
                 images: [
-                    'image1.jpg', 'image2.jpg', 'image3.jpg', 'image4.jpg', 'image5.jpg',
-                    'image6.jpg', 'image7.jpg', 'image8.jpg', 'image9.jpg', 'image10.jpg',
-                    'image11.jpg', 'image12.jpg', 'image13.jpg', 'image14.jpg', 'image15.jpg'
+                    'images/image15.webp', 'images/image2.jpeg', 'images/image3.png', 'images/image4.jpg', 'images/image5.jpeg',
+                    'images/image6.jpeg', 'images/image7.jpeg', 'images/image8.jpeg', 'images/image9.jpeg', 'images/image10.jpeg',
+                    'images/image11.jpeg', 'images/image12.jpeg', 'images/image13.webp', 'images/image14.jpeg', 'images/image1.jpeg'
                 ]
             },
             {
                 id: 3,
                 title: 'Projects',
                 images: [
-                    'image1.jpg', 'image2.jpg', 'image3.jpg', 'image4.jpg', 'image5.jpg',
-                    'image6.jpg', 'image7.jpg', 'image8.jpg', 'image9.jpg', 'image10.jpg',
-                    'image11.jpg', 'image12.jpg', 'image13.jpg', 'image14.jpg', 'image15.jpg'
+                    'images/image7.jpeg', 'images/image2.jpeg', 'images/image3.png', 'images/image4.jpg', 'images/image5.jpeg',
+                    'images/image6.jpeg', 'images/image1.jpeg', 'images/image8.jpeg', 'images/image9.jpeg', 'images/image10.jpeg',
+                    'images/image11.jpeg', 'images/image12.jpeg', 'images/image13.webp', 'images/image14.jpeg', 'images/image15.webp'
                 ]
             }
         ],
@@ -37,36 +37,36 @@
                 id: 4,
                 title: 'Album-01',
                 images: [
-                    'image1.jpg', 'image2.jpg', 'image3.jpg', 'image4.jpg', 'image5.jpg',
-                    'image6.jpg', 'image7.jpg', 'image8.jpg', 'image9.jpg', 'image10.jpg',
-                    'image11.jpg', 'image12.jpg', 'image13.jpg', 'image14.jpg', 'image15.jpg'
+                    'images/image9.jpeg', 'images/image2.jpeg', 'images/image3.png', 'images/image4.jpg', 'images/image5.jpeg',
+                    'images/image6.jpeg', 'images/image7.jpeg', 'images/image8.jpeg', 'images/image1.jpeg', 'images/image10.jpeg',
+                    'images/image11.jpeg', 'images/image12.jpeg', 'images/image13.webp', 'images/image14.jpeg', 'images/image15.webp'
                 ]
             },
             {
                 id: 5,
                 title: 'Album-02',
                 images: [
-                    'image1.jpg', 'image2.jpg', 'image3.jpg', 'image4.jpg', 'image5.jpg',
-                    'image6.jpg', 'image7.jpg', 'image8.jpg', 'image9.jpg', 'image10.jpg',
-                    'image11.jpg', 'image12.jpg', 'image13.jpg', 'image14.jpg', 'image15.jpg'
+                    'images/image1.jpeg', 'images/image2.jpeg', 'images/image3.png', 'images/image4.jpg', 'images/image5.jpeg',
+                    'images/image6.jpeg', 'images/image7.jpeg', 'images/image8.jpeg', 'images/image9.jpeg', 'images/image10.jpeg',
+                    'images/image11.jpeg', 'images/image12.jpeg', 'images/image13.webp', 'images/image14.jpeg', 'images/image15.webp'
                 ]
             },
             {
                 id: 6,
                 title: 'Album-03',
                 images: [
-                    'image1.jpg', 'image2.jpg', 'image3.jpg', 'image4.jpg', 'image5.jpg',
-                    'image6.jpg', 'image7.jpg', 'image8.jpg', 'image9.jpg', 'image10.jpg',
-                    'image11.jpg', 'image12.jpg', 'image13.jpg', 'image14.jpg', 'image15.jpg'
+                    'images/image4.jpg', 'images/image2.jpeg', 'images/image3.png', 'images/image1.jpeg', 'images/image5.jpeg',
+                    'images/image6.jpeg', 'images/image7.jpeg', 'images/image8.jpeg', 'images/image9.jpeg', 'images/image10.jpeg',
+                    'images/image11.jpeg', 'images/image12.jpeg', 'images/image13.webp', 'images/image14.jpeg', 'images/image15.webp'
                 ]
             },
             {
                 id: 7,
                 title: 'Album-04',
                 images: [
-                    'image1.jpg', 'image2.jpg', 'image3.jpg', 'image4.jpg', 'image5.jpg',
-                    'image6.jpg', 'image7.jpg', 'image8.jpg', 'image9.jpg', 'image10.jpg',
-                    'image11.jpg', 'image12.jpg', 'image13.jpg', 'image14.jpg', 'image15.jpg'
+                    'images/image1.jpeg', 'images/image2.jpeg', 'images/image3.png', 'images/image4.jpg', 'images/image5.jpeg',
+                    'images/image6.jpeg', 'images/image7.jpeg', 'images/image8.jpeg', 'images/image9.jpeg', 'images/image10.jpeg',
+                    'images/image11.jpeg', 'images/image12.jpeg', 'images/image13.webp', 'images/image14.jpeg', 'images/image15.webp'
                 ]
             }
         ]
