@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', () => {
         videosToDisplay.forEach(videoSrc => {
             const video = document.createElement('iframe');
             video.src = videoSrc;
-            video.controls = true; // Show controls for videos
+            video.controls = true;
             videoContainer.appendChild(video);
         });
 
@@ -247,7 +247,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }})
 
     renderSectionsList();
-    displaySection(sections.images[0]); // Default to the first image section
+    displaySection(sections.images[0]); 
 });
 
 

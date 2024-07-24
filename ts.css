@@ -620,7 +620,7 @@
   
   @media (max-width: 480px) {
     .upper-div{
-        padding:0
+        padding:0;
 
     }
     .logo {
@@ -629,6 +629,7 @@
   .nav{
     width:100%;
     height:25vh;
+    padding:2vh;
     border-radius:0
     
   }
@@ -638,8 +639,12 @@
     .navbar-list {
       flex-direction: column;
       align-items: center;
-      border-radius:0
+      border-radius:0;
+      width:100%
      
+    }
+    .navbar-list li {
+        font-size:small;
     }
 
   
